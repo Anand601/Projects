@@ -1,0 +1,5 @@
+python version ="3.7"
+libraries:
+	1.requests
+	2.beautifulsoap(bs4)
+	3.pandas
